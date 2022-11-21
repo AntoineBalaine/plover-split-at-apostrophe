@@ -2,3 +2,5 @@
 plover_split_at_apostrophe/.vscode
 plover_split_at_apostrophe/__pycache__
 plover_split_at_apostrophe.egg-info
+build/lib/plover_split_at_apostrophe
+dist
